@@ -1,0 +1,15 @@
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+Really nice work on this, Kai. You've got all the pieces there,
+and you used time as in int, which is definitely the smarter
+way to do this (I think).
+
+Well done!
+
+SCORE: 20/20
+
+*/
+
